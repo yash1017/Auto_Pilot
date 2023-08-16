@@ -2,9 +2,9 @@
 
 AI Autopilot represents a cutting-edge deep learning initiative that leverages advanced computer vision methodologies to forecast precise steering angles for self-driving automobiles. Enclosed within this repository is the comprehensive codebase and model framework that empowers an artificial intelligence system to independently guide a vehicle, utilizing an intricate analysis of input images sourced from a forward-oriented camera.
 ### Demo:
-<img width="491" alt="Screenshot 2023-07-24 225732" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/ee928ecc-db27-402e-b3e3-42d8e245073b">
+<img width="491" alt="Screenshot 2023-07-24 225732" src="https://github.com/yash1017/Auto_Pilot/blob/55f2b4aa120ef1486f57743cf51769c7aeccd05b/Demo/Screenshot%202023-07-24%20225901.png">
 
-<img width="436" alt="Screenshot 2023-07-24 225901" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/74853d34-4df4-4039-99df-bf2275fe5d2f"> 
+<img width="436" alt="Screenshot 2023-07-24 225901" src="https://github.com/yash1017/Auto_Pilot/blob/55f2b4aa120ef1486f57743cf51769c7aeccd05b/Demo/Screenshot%202023-07-24%20231035.png"> 
 
 ## Installation
 
