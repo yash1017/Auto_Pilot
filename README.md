@@ -21,13 +21,13 @@ AI Autopilot represents a cutting-edge deep learning initiative that leverages a
   git clone https://github.com/yash1017/AutoPilot.git
 ```
 
-## Project Architecture:
-<img width="768" alt="Project Architectur" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/3386acae-3bb8-4ddf-84dd-b61e31b87f2b">
+
 
 ### Convolutional Neural Network Model Architecture:
-<img width="557" alt="image" src="https://github.com/Dileep-56/AI-AutoPilot/assets/121457201/3e464d8f-cdc9-41da-923b-753a8fa70d45">
+<img width="557" alt="image" src="https://github.com/yash1017/Auto_Pilot/blob/25353b76787237c75d3d79a653e87ec28cfbfa3e/real_world_img_testing/cnn_arch.png">
 
-
+## Project Architecture:
+<img width="768" alt="Project Architectur" src="https://github.com/yash1017/Auto_Pilot/blob/25353b76787237c75d3d79a653e87ec28cfbfa3e/real_world_img_testing/Proj_arch.png">
 ## References:
 - This is a implementation of [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf), this document provides complete architecture of how this model should be done.
 - For Deep Learning, you can follow this book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Third Edition](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982).
