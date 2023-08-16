@@ -15,10 +15,10 @@ def get_req(file_path:str)->List[str]:
 
 
 setup(
-    name='AI AutoPilot',
+    name='AutoPilot',
     version='0.0.1',
-    author='Dileep Kumar',
-    author_email='dileepkumarreddymanchala@gmail.com',
+    author='Yaswanth',
+    author_email='yaswwanththokala7033@gmail.com',
     packages=find_packages(),
     install_requires = get_req('requirements.txt')
     
