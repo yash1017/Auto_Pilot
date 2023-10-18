@@ -1,0 +1,16 @@
+gunicorn
+numpy
+flask
+joblib
+scikit-learn
+jupyter
+lxml
+matplotlib
+pandas
+Pillow
+seaborn
+tensorflow
+opencv-python
+keras
+ipykernel
+
