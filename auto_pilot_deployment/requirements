@@ -1,0 +1,15 @@
+jupyter
+lxml
+matplotlib
+pandas
+Pillow
+scikit-learn
+numpy
+seaborn
+tensorflow
+opencv-python
+keras
+ipykernel
+flask
+os
+-e .
