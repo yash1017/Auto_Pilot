@@ -27,7 +27,7 @@ AI Autopilot represents a cutting-edge deep learning initiative that leverages a
 <img width="557" alt="image" src="https://github.com/yash1017/Auto_Pilot/blob/25353b76787237c75d3d79a653e87ec28cfbfa3e/real_world_img_testing/cnn_arch.png">
 
 ## Project Architecture:
-<img width="768" alt="Project Architectur" src="https://github.com/yash1017/Auto_Pilot/blob/25353b76787237c75d3d79a653e87ec28cfbfa3e/real_world_img_testing/Proj_arch.png">
+<img width="768" alt="Project Architectur" src="https://github.com/yash1017/Auto_Pilot/blob/e11278b1c31d99af377e00d106d00eb4426574f8/Demo/Final_ap_arch.png">
 ## References:
 - This is a implementation of [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf), this document provides complete architecture of how this model should be done.
 - For Deep Learning, you can follow this book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Third Edition](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982).
