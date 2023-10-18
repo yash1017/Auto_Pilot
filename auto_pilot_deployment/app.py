@@ -6,7 +6,7 @@ import cv2
 import numpy as np
 from PIL import Image  # Import Image from the Pillow library
 
-model = load_model('auto_pilot_deployment\Saved_Model-Copy1.h5')  # Update the path to your model
+model = load_model('Saved_Model-Copy1.h5')  # Update the path to your model
 
 app = Flask(__name__)
 
