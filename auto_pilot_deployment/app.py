@@ -39,4 +39,4 @@ def predict():
     return f'The predicted angle is <h1>{steering_angle}</h1> degrees'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=8080)
